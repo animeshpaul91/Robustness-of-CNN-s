@@ -1,5 +1,5 @@
 # Robustness-of-CNN-s
-Measure the degree of Robustness of CNN's by generation of Adversarial Examples. 
+Towards Evaluating the degree of Robustness of CNN's by generation of Adversarial Examples. 
 
 Title of project​ : Measuring the degree of Robustness of Convolutional Neural Networks in
 classifying images.
@@ -18,5 +18,4 @@ Dataset​ : MNIST and/or CIFAR10
 Evaluation Metrics​ : L2 distance metric & demonstration of the failure of transferability [1].
 
 References:
-1. Towards Evaluating the Robustness of Neural Networks authored by Nicholas Carlini &
-David Wagner, University of California, Berkeley.
+1. Towards Evaluating the Robustness of Neural Networks authored by Nicholas Carlini & David Wagner, University of California, Berkeley.
