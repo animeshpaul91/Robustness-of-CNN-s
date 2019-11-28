@@ -1,0 +1,10 @@
+Question: What impact does adversarial examples in training data have on Deep Learning Models? 
+
+Options: 
+A) Adversarial Examples speed up training on tradional Deep Learning Systems. 
+B) Adversarial Examples have little to no-effect on the performance of Deep Learning Systems. 
+C) Adversarial Examples impede the performance of Deep Learning Systems and are also therefore a threat to mission critical AI Systems.
+D) Adversarial Examples improve the performance of Deep Learning models and can be a big boost in Computer Vision as well.
+
+Correct Answer: C.
+
