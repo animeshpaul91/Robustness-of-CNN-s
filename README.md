@@ -12,7 +12,8 @@ network) and measure the probability of its misclassification. The paper [1] dis
 attack algorithms tailored to three distance metrics (L0, L2, and Linfinity distances) and uses
 these as a benchmark to evaluate the defensiveness of a given CNN. I have implemented the L-2 adversarial
 attack algorithm on top of two convolutional neural networks - a standard network without defense and a 
-defensively distilled neural network. The attack breaks both networks and successfully generates 
+defensively distilled neural network. This attack has been considered to one of the most state-of-the-art attacks
+that even breaks defensive distillation. The attack breaks both networks and successfully generates 
 adversarial images for every (source, target) ordered pair.
 
 The results for both the networks are placed in results and distilled_networks respectively. Each of the 
